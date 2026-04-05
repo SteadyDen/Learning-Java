@@ -57,7 +57,7 @@ public class StringExample {
         // System.out.println(str_1.indexOf("이"));
         // System.out.println(str_1.indexOf("름"));
         // String str_name = str_1.substring(4, 7);
-        // System.out.println(str_name);
+        // System.out.println(str_name); 
 
         // // 문자열 대소문자 변환
 
